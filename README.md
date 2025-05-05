@@ -19,7 +19,6 @@ Atualmente, estou ampliando minha atuação profissional com foco em tecnologia,
     ## Contatos:
      <div>
        <a href = "arieleberdpj@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ariel-eber-de-paula-junior-413485216" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+       <a href="https://www.linkedin.com/in/ariel-eber-de-paula-junior-413485216" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+       </div>
 
-![Snake animation](https://github.com/ArielEPJr/ArielEPJr/blob/output/github-contribution-grid-snake.svg)
