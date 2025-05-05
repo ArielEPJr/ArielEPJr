@@ -12,7 +12,7 @@ Atualmente, estou ampliando minha atuação profissional com foco em tecnologia,
  
   - ## EM CURSO 
 
-     <img loading="lazy"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
           
     
           
