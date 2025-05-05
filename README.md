@@ -9,10 +9,10 @@ Atualmente, estou ampliando minha atuação profissional com foco em tecnologia,
 
 - 💻 Atualmente estudando Programação e Automação de Processos com foco em aplicar soluções tecnológicas na área de Logística.
 
-- - 💻 Atualmente estudando Programação e Automação de Processos com foco em aplicar soluções tecnológicas na área de Logística.
  
   - ## EM CURSO 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+            <img loading="lazy"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+    
           
            
 
